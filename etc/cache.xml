@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Cache/etc/cache.xsd">
+    <type name="virementmaitrise_cache" translate="label,description" instance="Virementmaitrise\HyvaPayment\Model\Cache\Type">
+        <label>Virement Maitrisé Cache</label>
+        <description>Cache pool of the Virement Maitrisé module.</description>
+    </type>
+</config>
