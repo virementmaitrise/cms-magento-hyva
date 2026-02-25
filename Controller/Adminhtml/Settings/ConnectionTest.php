@@ -8,7 +8,7 @@ use Virementmaitrise\HyvaPayment\Gateway\Config\Config;
 use Virementmaitrise\HyvaPayment\Helper\Fintecture as FintectureHelper;
 use Virementmaitrise\HyvaPayment\Logger\Logger as FintectureLogger;
 use Virementmaitrise\HyvaPayment\Model\Environment;
-use VirementMaitrise\Util\Validation;
+use Fintecture\Util\Validation;
 use Magento\Backend\App\Action;
 use Magento\Backend\App\Action\Context;
 use Magento\Framework\App\Config\ScopeConfigInterface;
