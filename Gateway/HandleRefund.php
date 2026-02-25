@@ -6,7 +6,7 @@ use Virementmaitrise\HyvaPayment\Gateway\Config\Config;
 use Virementmaitrise\HyvaPayment\Gateway\Http\Sdk;
 use Virementmaitrise\HyvaPayment\Helper\Fintecture as FintectureHelper;
 use Virementmaitrise\HyvaPayment\Logger\Logger;
-use VirementMaitrise\Util\Crypto;
+use Fintecture\Util\Crypto;
 use Magento\Framework\Exception\LocalizedException;
 use Magento\Sales\Api\CreditmemoRepositoryInterface;
 use Magento\Sales\Api\Data\CreditmemoInterface;

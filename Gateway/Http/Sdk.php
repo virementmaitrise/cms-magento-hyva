@@ -7,7 +7,7 @@ namespace Virementmaitrise\HyvaPayment\Gateway\Http;
 use Virementmaitrise\HyvaPayment\Gateway\Config\Config;
 use Virementmaitrise\HyvaPayment\Logger\Logger;
 use Virementmaitrise\HyvaPayment\Model\Cache\OperateCustomCache;
-use VirementMaitrise\PisClient;
+use Fintecture\PisClient;
 use Magento\Framework\Encryption\EncryptorInterface;
 use Symfony\Component\HttpClient\Psr18Client;
 

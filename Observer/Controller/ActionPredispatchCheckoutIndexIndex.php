@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Virementmaitrise\HyvaPayment\Observer\Controller;
 
-use VirementMaitrise\Config\Telemetry;
+use Fintecture\Config\Telemetry;
 use Virementmaitrise\HyvaPayment\Helper\Cookie as CookieHelper;
 use Virementmaitrise\HyvaPayment\Helper\Stats;
 use Magento\Checkout\Model\Session;

@@ -2,7 +2,7 @@
 
 namespace Virementmaitrise\HyvaPayment\Observer;
 
-use VirementMaitrise\Config\Telemetry;
+use Fintecture\Config\Telemetry;
 use Virementmaitrise\HyvaPayment\Helper\Stats;
 use Magento\Framework\Event\Observer;
 use Magento\Framework\Event\ObserverInterface;

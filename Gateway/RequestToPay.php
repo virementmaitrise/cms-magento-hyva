@@ -2,12 +2,12 @@
 
 namespace Virementmaitrise\HyvaPayment\Gateway;
 
-use VirementMaitrise\Api\ApiResponse;
+use Fintecture\Api\ApiResponse;
 use Virementmaitrise\HyvaPayment\Gateway\Config\Config;
 use Virementmaitrise\HyvaPayment\Gateway\Http\Sdk;
 use Virementmaitrise\HyvaPayment\Helper\Fintecture as FintectureHelper;
 use Virementmaitrise\HyvaPayment\Logger\Logger;
-use VirementMaitrise\Util\Crypto;
+use Fintecture\Util\Crypto;
 use Magento\Sales\Api\OrderRepositoryInterface;
 use Magento\Sales\Model\Order;
 
