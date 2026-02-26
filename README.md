@@ -1,6 +1,6 @@
 # Virement Maitrisé Payment module for Magento 2.4 with Hyvä Compatibility
 
-[![Latest Stable Version](http://poser.pugx.org/virementmaitrise/payment-hyva/v)](https://packagist.org/packages/virementmaitrise/payment-hyva) [![Total Downloads](http://poser.pugx.org/virementmaitrise/payment-hyva/downloads)](https://packagist.org/packages/virementmaitrise/payment-hyva) [![Monthly Downloads](http://poser.pugx.org/virementmaitrise/payment-hyva/d/monthly)](https://packagist.org/packages/virementmaitrise/payment-hyva) [![License](http://poser.pugx.org/virementmaitrise/payment-hyva/license)](https://packagist.org/packages/virementmaitrise/payment-hyva) [![PHP Version Require](http://poser.pugx.org/virementmaitrise/payment-hyva/require/php)](https://packagist.org/packages/virementmaitrise/payment-hyva)
+[![Latest Stable Version](http://poser.pugx.org/virement-maitrise/payment-hyva/v)](https://packagist.org/packages/virement-maitrise/payment-hyva) [![Total Downloads](http://poser.pugx.org/virement-maitrise/payment-hyva/downloads)](https://packagist.org/packages/virement-maitrise/payment-hyva) [![Monthly Downloads](http://poser.pugx.org/virement-maitrise/payment-hyva/d/monthly)](https://packagist.org/packages/virement-maitrise/payment-hyva) [![License](http://poser.pugx.org/virement-maitrise/payment-hyva/license)](https://packagist.org/packages/virement-maitrise/payment-hyva) [![PHP Version Require](http://poser.pugx.org/virement-maitrise/payment-hyva/require/php)](https://packagist.org/packages/virement-maitrise/payment-hyva)
 
 Société Générale provide a payment solution via bank transfer available at https://www.virementmaitrise.societegenerale.eu.
 
@@ -17,7 +17,7 @@ More information on [Magento documentation](https://devdocs.magento.com/guides/v
 
 You can install our plugin with Composer:
 
-`composer require virementmaitrise/payment-hyva`
+`composer require virement-maitrise/payment-hyva`
 
 ### Optional dependencies
 
